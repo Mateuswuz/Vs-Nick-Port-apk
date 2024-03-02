@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NickBravo.png">
+<SubTexture name="nickbravo idle0000" x="0" y="492" width="452" height="477" frameX="-167" frameY="-23" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo idle0001" x="402" y="969" width="472" height="468" frameX="-155" frameY="-33" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo idle0002" x="0" y="1441" width="522" height="357" frameX="-132" frameY="-144" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo idle0003" x="522" y="1441" width="536" height="345" frameX="-124" frameY="-156" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo idle0004" x="402" y="969" width="472" height="468" frameX="-155" frameY="-33" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo down0000" x="1058" y="1441" width="537" height="287" frameX="-113" frameY="-211" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo down0001" x="1955" y="0" width="561" height="276" frameX="-101" frameY="-222" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo left0000" x="380" y="0" width="522" height="479" frameX="-98" frameY="-23" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo left0001" x="902" y="0" width="565" height="479" frameX="-55" frameY="-23" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo right0000" x="452" y="492" width="462" height="475" frameX="-178" frameY="-26" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo right0001" x="914" y="492" width="485" height="475" frameX="-178" frameY="-26" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0000" x="874" y="969" width="494" height="456" frameX="-143" frameY="-45" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0001" x="1467" y="0" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0002" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0003" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0004" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0005" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0006" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0007" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0008" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0009" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0010" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0011" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo shot0012" x="1467" y="454" width="488" height="454" frameX="-144" frameY="-46" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo up0000" x="0" y="969" width="402" height="472" frameX="-194" frameY="-26" frameWidth="640" frameHeight="480" />
+<SubTexture name="nickbravo up0001" x="0" y="0" width="380" height="492" frameX="-206" frameY="-6" frameWidth="640" frameHeight="480" />
+</TextureAtlas>

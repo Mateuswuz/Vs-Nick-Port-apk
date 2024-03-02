@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nick.png">
+<SubTexture name="nick idle0000" x="0" y="492" width="339" height="477" frameX="-167" frameY="-23" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick idle0001" x="744" y="492" width="361" height="468" frameX="-155" frameY="-33" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick idle0002" x="0" y="969" width="417" height="357" frameX="-132" frameY="-144" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick idle0003" x="417" y="969" width="439" height="345" frameX="-124" frameY="-156" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick idle0004" x="744" y="492" width="361" height="468" frameX="-155" frameY="-33" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick right0000" x="339" y="492" width="405" height="475" frameX="-178" frameY="-26" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick right0001" x="1175" y="0" width="435" height="475" frameX="-178" frameY="-26" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick up0000" x="1175" y="475" width="286" height="472" frameX="-194" frameY="-26" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick up0001" x="0" y="0" width="264" height="492" frameX="-206" frameY="-6" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick down0000" x="856" y="969" width="454" height="287" frameX="-113" frameY="-211" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick down0001" x="0" y="1326" width="480" height="276" frameX="-101" frameY="-222" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick left0000" x="264" y="0" width="434" height="479" frameX="-98" frameY="-23" frameWidth="640" frameHeight="480" />
+<SubTexture name="nick left0001" x="698" y="0" width="477" height="479" frameX="-55" frameY="-23" frameWidth="640" frameHeight="480" />
+</TextureAtlas>
